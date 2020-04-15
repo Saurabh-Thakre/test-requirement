@@ -1,0 +1,6 @@
+- name: test requirements
+  hosts: localhost
+  connection: local
+
+  roles:
+    - role: test_roles
