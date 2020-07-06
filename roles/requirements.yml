@@ -1,4 +1,4 @@
 - src: https://github.com/Saurabh-Thakre/test-roles.git
   version: master
   name: test_roles
-- include: customer.yml
+- include: roles/customer.yml
