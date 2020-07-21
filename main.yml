@@ -3,4 +3,4 @@
   connection: local
 
   roles:
-    - { role: test.roles, tags: lvm }
+    - { role: test-roles, tags: lvm }
