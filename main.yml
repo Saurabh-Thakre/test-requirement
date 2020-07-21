@@ -3,4 +3,4 @@
   connection: local
 
   roles:
-    - { role: test.roles }
+    - { role: test_roles }
