@@ -4,4 +4,4 @@
   tasks:
     - name: Importing role 
       import_role: 
-        test.roles
+        name: test.roles
