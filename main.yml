@@ -2,5 +2,5 @@
   hosts: localhost
   connection: local
   roles:
-   - role: test.roles
+   - role: dtest.roles
 
