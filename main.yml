@@ -1,6 +1,7 @@
 - name: test requirements
   hosts: localhost
   connection: local
-  roles:
-   - role: dtest.roles
-
+  tasks:
+    - name: Importing role 
+      import_role: 
+        test.roles
